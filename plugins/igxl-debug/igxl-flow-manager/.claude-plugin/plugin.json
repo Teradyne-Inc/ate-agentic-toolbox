@@ -1,0 +1,8 @@
+{
+  "name": "igxl-flow-manager",
+  "description": "igxl-flow-manager MCP server for IG-XL program state, flow, and test context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "IG-XL Plugin team"
+  }
+}

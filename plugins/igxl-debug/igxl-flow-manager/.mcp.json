@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "igxl-flow-manager-mcp": {
+      "command": "igxl-flow-manager-mcp.exe"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "igxl-api-execution",
+  "description": "igxl-api-execution MCP server and code-execution skill for live silicon at a breakpoint.",
+  "version": "1.0.0",
+  "author": {
+    "name": "IG-XL Plugin team"
+  },
+  "skills": "./skills"
+}

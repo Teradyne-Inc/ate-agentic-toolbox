@@ -1,0 +1,32 @@
+{
+  "name": "igxl-debug",
+  "owner": {
+    "name": "Gen AI Team"
+  },
+  "plugins": [
+    {
+      "name": "igxl-api-execution",
+      "source": "./plugins/igxl-debug/igxl-api-execution",
+      "description": "igxl-api-execution MCP server and code-execution skill for live silicon at a breakpoint.",
+      "version": "1.0.0",
+      "skills": [
+        "./skills/igxl-code-execution"
+      ]
+    },
+    {
+      "name": "igxl-flow-manager",
+      "source": "./plugins/igxl-debug/igxl-flow-manager",
+      "description": "igxl-flow-manager MCP server for IG-XL program state, flow, and test context.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "igxl-api-reference",
+      "source": "./plugins/igxl-debug/igxl-api-reference",
+      "description": "igxl-api-reference MCP server and code-generation skill for local API lookup.",
+      "version": "1.0.0",
+      "skills": [
+        "./skills/igxl-code-generation"
+      ]
+    }
+  ]
+}

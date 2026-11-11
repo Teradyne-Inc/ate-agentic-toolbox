@@ -1,0 +1,9 @@
+{
+  "name": "igxl-api-reference",
+  "description": "igxl-api-reference MCP server and code-generation skill for local API lookup.",
+  "version": "1.0.0",
+  "author": {
+    "name": "IG-XL Plugin team"
+  },
+  "skills": "./skills"
+}

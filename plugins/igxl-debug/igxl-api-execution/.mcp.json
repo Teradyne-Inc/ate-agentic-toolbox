@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "igxl-api-execution-mcp": {
+      "command": "igxl-api-execution-mcp.exe"
+    }
+  }
+}

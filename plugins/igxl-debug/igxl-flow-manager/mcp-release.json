@@ -1,0 +1,9 @@
+{
+  "version": "v1.0.5",
+  "asset": "igxl-flow-manager-mcp.exe",
+  "sha256": "sha256:6752a9f0773e784cf9862514a9425f9173559914581f1c7accd41a2a929248b2",
+  "installer": {
+    "asset": "igxl-flow-manager-install.exe",
+    "sha256": "sha256:58219f828e67c65ebbfe26b3d375255814c1a60828bfab3850f043a55c58ca2d"
+  }
+}
